@@ -1,0 +1,26 @@
+{
+    "geminicodeassist.project": "mid4s-478623",
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        ".claude/rules": true,
+        "~/.copilot/instructions": true,
+        "~/.claude/rules": true,
+        "/tmp/postman-collections-post-response.instructions.md": true,
+        "/tmp/postman-collections-pre-request.instructions.md": true,
+        "/tmp/postman-folder-post-response.instructions.md": true,
+        "/tmp/postman-folder-pre-request.instructions.md": true,
+        "/tmp/postman-http-request-post-response.instructions.md": true,
+        "/tmp/postman-http-request-pre-request.instructions.md": true
+    },
+    "cloudcode.project": "mid4s-478623",
+    "files.autoSave": "afterDelay",
+    "diffEditor.codeLens": true,
+    "workbench.statusBar.visible": false,
+    "claudeCode.preferredLocation": "panel",
+    "aws.cloudformation.telemetry.enabled": true,
+    "http.systemCertificatesNode": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "chat.viewSessions.orientation": "stacked",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autorefresh": false
+}
